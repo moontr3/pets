@@ -1,0 +1,18 @@
+{
+    "idle_l": 60,
+    "idle_r": 60,
+    "walk_l": 15,
+    "walk_r": 15,
+    "grab_l": 25,
+    "grab_r": 25,
+    "fall_l": 30,
+    "fall_r": 30,
+    "ground_hit_l": 20,
+    "ground_hit_r": 20,
+    "rest_l": 60,
+    "rest_r": 60,
+    "wake_l": 40,
+    "wake_r": 40,
+    "pat_l": 50,
+    "pat_r": 50
+}
